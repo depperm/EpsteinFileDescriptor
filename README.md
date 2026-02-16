@@ -3,7 +3,9 @@ I was frustrated looking at the [Epstein files](https://www.justice.gov/epstein)
 
 This extension will add some tags with basic info and a description with more details.
 
-This is a WIP as there are 3 million files. Please be patient or add info.
+![Screenshot of extension in use](screenshot.png)
+
+This is a WIP as there are 3 million files (~3,000 videos). Please be patient or add info to help.
 
 ## Helpful Hints
 
