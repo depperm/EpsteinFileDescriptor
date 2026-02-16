@@ -14,5 +14,13 @@
     background-color: rgb(92 92 92);
 }
 .tag-chip.mp4 {
+    color: black;
     background-color: rgb(92 187 246);
+}
+.tag-chip.jail {
+    color: black;
+    background-color: rgb(252 173 3);
+}
+.tag-chip.redaction {
+    text-decoration: line-through;
 }

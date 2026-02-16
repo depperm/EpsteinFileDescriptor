@@ -122,7 +122,10 @@
   "EFTA00033046": { "tags": ["mp4", "jail"], "description": "length 59:22" },
   "EFTA00033114": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
   "EFTA00033130": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
-  "EFTA00033115": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
+  "EFTA00033115": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/22/2019"
+  },
   "EFTA00033273": {
     "tags": ["mp4", "jail"],
     "description": "length 1:00:25 07/14/2019"
@@ -162,5 +165,217 @@
   "EFTA00033298": {
     "tags": ["mp4", "jail"],
     "description": "length 59:22 07/19/2019"
-  }
+  },
+  "EFTA00033156": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/30/2019"
+  },
+  "EFTA00033190": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/04/2019"
+  },
+  "EFTA00033106": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/20/2019"
+  },
+  "EFTA00033011": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/09/2019"
+  },
+  "EFTA00033250": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/08/2019"
+  },
+  "EFTA00033028": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:51 08/11/2019"
+  },
+  "EFTA00033136": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/26/2019"
+  },
+  "EFTA00033177": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/02/2019"
+  },
+  "EFTA00033318": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/23/2019"
+  },
+  "EFTA00033408": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/10/2019"
+  },
+  "EFTA00033188": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/04/2019"
+  },
+  "EFTA00033023": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/11/2019"
+  },
+  "EFTA00033365": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/02/2019"
+  },
+  "EFTA00033372": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/03/2019"
+  },
+  "EFTA00033020": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/10/2019"
+  },
+  "EFTA00033042": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/06/2019"
+  },
+  "EFTA00033085": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:40 07/16/2019"
+  },
+  "EFTA00033397": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 08/08/2019"
+  },
+  "EFTA00033373": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 08/03/2019"
+  },
+  "EFTA00033175": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 08/02/2019"
+  },
+  "EFTA00033202": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/06/2019"
+  },
+  "EFTA00033320": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/23/2019"
+  },
+  "EFTA00033153": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/29/2019"
+  },
+  "EFTA00033213": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/08/2019"
+  },
+  "EFTA00033239": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/06/2019"
+  },
+  "EFTA00033247": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/08/2019"
+  },
+  "EFTA00033208": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 08/07/2019"
+  },
+  "EFTA00033087": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/16/2019"
+  },
+  "EFTA00033268": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/13/2019"
+  },
+  "EFTA00033104": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/19/2019"
+  },
+  "EFTA00033311": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/21/2019"
+  },
+  "EFTA00033024": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 08/11/2019"
+  },
+  "EFTA00032989": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/09/2019"
+  },
+  "EFTA00033201": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 08/06/2019"
+  },
+  "EFTA00033266": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/13/2019"
+  },
+  "EFTA00033341": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/27/2019"
+  },
+  "EFTA00033094": {
+    "tags": ["mp4", "jail"],
+    "description": "length 59:22 07/17/2019"
+  },
+  "EFTA00033080": {
+    "tags": ["mp4", "jail"],
+    "description": "length 1:00:25 07/15/2019"
+  },
+  "EFTA01600824": {
+    "tags": ["mov", "jail"],
+    "description": "length 1:57:45 raw Steve Bannon interview of Epstein"
+  },
+  "EFTA01612251": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01612219": {
+    "tags": ["mp4"],
+    "description": "length 00:14 boat beached on shore with waves crashing around"
+  },
+  "EFTA01614277": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01648719": {
+    "tags": ["mp4", "redaction"],
+    "description": "length 00:02 man's belly"
+  },
+  "EFTA01648710": {
+    "tags": ["mp4", "redaction"],
+    "description": "length 00:16 provacative dance"
+  },
+  "EFTA01648648": { "tags": ["mp4"], "description": "length 00:25 Just black" },
+  "EFTA01648715": {
+    "tags": ["mp4", "redaction"],
+    "description": "length 00:02 someone's feet at resort"
+  },
+  "EFTA01648726": {
+    "tags": ["mp4", "redaction"],
+    "description": "length 00:02 woman in revealing costume"
+  },
+  "EFTA01648733": { "tags": ["mp4"], "description": "length 00:25 Just black" },
+  "EFTA01648649": { "tags": ["mp4"], "description": "length 00:25 Just black" },
+  "EFTA01648657": {
+    "tags": ["mp4", "redaction"],
+    "description": "length 1:09 black and white person with music"
+  },
+  "EFTA01621008": {
+    "tags": ["mov"],
+    "description": "length 3:27:00 Just audio of speaking with heavy accent, probably eating"
+  },
+  "EFTA01619625": {
+    "tags": ["mov"],
+    "description": "length 0:44 Deepak Chopra speaking"
+  },
+  "EFTA01619633": {
+    "tags": ["mov"],
+    "description": "length 0:46 Deepak Chopra speaking"
+  },
+  "EFTA01621016": {
+    "tags": ["mov"],
+    "description": "length 0:03 Epstein selfie"
+  },
+  "EFTA01621018": {
+    "tags": ["mov"],
+    "description": "length 0:02 video of a pic of Epstein sitting in chair"
+  },
+  "EFTA01621029": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621060": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621010": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621062": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621080": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621034": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01621046": { "tags": ["UNKNOWN"], "description": "Nothing to see here" }
 }
