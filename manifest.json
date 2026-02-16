@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Epstein File Description",
+  "version": "1.0",
+  "description": "Frustrated by the lack of details about the Epstein files. Don't want to click each one. This extension adds tags and descriptions to Epstein files.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.justice.gov/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["metadata.json"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

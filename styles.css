@@ -1,0 +1,18 @@
+.tag-chip {
+    display: inline-block;
+    padding: 0 12px;
+    height: 32px;
+    font-size: 16px;
+    line-height: 2;
+    border-radius: 4px;
+    background-color: rgb(24 103 192);
+    color: #f1f1f1;
+    margin: 2px;
+}
+
+.tag-chip.UNKNOWN {
+    background-color: rgb(92 92 92);
+}
+.tag-chip.mp4 {
+    background-color: rgb(92 187 246);
+}
