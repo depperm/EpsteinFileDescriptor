@@ -1,381 +1,1067 @@
 {
   "EFTA00221048": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": "Unidentified"
   },
   "EFTA00776196": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00759424": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00179444": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00182656": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00182657": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00184098": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00165150": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00157542": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00155551": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
   "EFTA00221040": {
     "tags": ["UNKNOWN"],
-    "description": "Nothing to see here"
+    "description": ""
   },
-  "EFTA00155488": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00152685": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00152690": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221039": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221052": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221049": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221047": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221037": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221042": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00221050": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01178791": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01180571": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01178656": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01179077": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01181661": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00015032": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00016341": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00019181": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00015920": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00016338": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683549": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00016340": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA02713876": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA02720005": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01613258": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01600813": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01600812": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01600809": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01600802": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01600807": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01154497": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01153587": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01155746": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01153273": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01156810": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01156814": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01156811": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01156750": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01156813": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01158020": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683418": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683319": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683427": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683518": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683545": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683335": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683474": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683473": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683568": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01683504": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01141481": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01206073": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01206093": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01206709": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01206366": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01207700": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01207689": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01207701": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01200239": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01201950": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01144195": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01144191": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01144265": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01143830": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01145820": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01141497": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01147522": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01147152": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01149143": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01148747": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00024813": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA00029996": { "tags": ["mp4", "jail"], "description": "length 00:08" },
-  "EFTA00033012": { "tags": ["mp4", "jail"], "description": "length 59:22" },
-  "EFTA00033048": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
-  "EFTA00033113": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
-  "EFTA00033116": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
-  "EFTA00033046": { "tags": ["mp4", "jail"], "description": "length 59:22" },
-  "EFTA00033114": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
-  "EFTA00033130": { "tags": ["mp4", "jail"], "description": "length 1:00:25" },
+  "EFTA00155488": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00152685": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00152690": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221039": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221052": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221049": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221047": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221037": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221042": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00221050": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01178791": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01180571": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01178656": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01179077": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01181661": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00015032": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00016341": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00019181": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00015920": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00016338": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683549": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00016340": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA02713876": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA02720005": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01613258": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01600813": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01600812": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01600809": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01600802": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01600807": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01154497": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01153587": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01155746": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01153273": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01156810": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01156814": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01156811": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01156750": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01156813": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01158020": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683418": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683319": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683427": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683518": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683545": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683335": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683474": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683473": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683568": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01683504": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01141481": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01206073": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01206093": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01206709": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01206366": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01207700": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01207689": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01207701": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01200239": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01201950": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01144195": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01144191": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01144265": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01143830": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01145820": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01141497": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01147522": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01147152": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01149143": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA01148747": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00024813": { "tags": ["UNKNOWN"], "description": "" },
+  "EFTA00029996": {
+    "tags": ["mp4", "jail"],
+    "description": "length 00:08",
+    "len": "0:08",
+    "date": ""
+  },
+  "EFTA00033012": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "59:22",
+    "date": ""
+  },
+  "EFTA00033048": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "1:00:25",
+    "date": ""
+  },
+  "EFTA00033113": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "1:00:25",
+    "date": ""
+  },
+  "EFTA00033116": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "1:00:25",
+    "date": ""
+  },
+  "EFTA00033046": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "59:22",
+    "date": ""
+  },
+  "EFTA00033114": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "1:00:25",
+    "date": ""
+  },
+  "EFTA00033130": {
+    "tags": ["mp4", "jail"],
+    "description": "",
+    "len": "1:00:25",
+    "date": ""
+  },
   "EFTA00033115": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/22/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/22/2019"
   },
   "EFTA00033273": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/14/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/14/2019"
   },
   "EFTA00033059": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/10/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/10/2019"
   },
   "EFTA00033251": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/09/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/09/2019"
   },
   "EFTA00033238": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/06/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/06/2019"
   },
   "EFTA00033206": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/07/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/07/2019"
   },
   "EFTA00033297": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/19/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/19/2019"
   },
   "EFTA00033010": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/08/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/08/2019"
   },
   "EFTA00033154": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/29/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/29/2019"
   },
   "EFTA00033295": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/19/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/19/2019"
   },
   "EFTA00033298": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/19/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/19/2019"
   },
   "EFTA00033156": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/30/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/30/2019"
   },
   "EFTA00033190": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/04/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/04/2019"
   },
   "EFTA00033106": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/20/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/20/2019"
   },
   "EFTA00033011": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/09/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/09/2019"
   },
   "EFTA00033250": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/08/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/08/2019"
   },
   "EFTA00033028": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:51 08/11/2019"
+    "description": "",
+    "len": "59:51",
+    "date": "08/11/2019"
   },
   "EFTA00033136": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/26/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/26/2019"
   },
   "EFTA00033177": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/02/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/02/2019"
   },
   "EFTA00033318": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/23/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/23/2019"
   },
   "EFTA00033408": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/10/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/10/2019"
   },
   "EFTA00033188": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/04/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/04/2019"
   },
   "EFTA00033023": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/11/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/11/2019"
   },
   "EFTA00033365": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/02/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/02/2019"
   },
   "EFTA00033372": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/03/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/03/2019"
   },
   "EFTA00033020": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/10/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/10/2019"
   },
   "EFTA00033042": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/06/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/06/2019"
   },
   "EFTA00033085": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:40 07/16/2019"
+    "description": "",
+    "len": "59:40",
+    "date": "07/16/2019"
   },
   "EFTA00033397": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/08/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/08/2019"
   },
   "EFTA00033373": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/03/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/03/2019"
   },
   "EFTA00033175": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/02/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/02/2019"
   },
   "EFTA00033202": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/06/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/06/2019"
   },
   "EFTA00033320": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/23/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/23/2019"
   },
   "EFTA00033153": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/29/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/29/2019"
   },
   "EFTA00033213": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/08/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/08/2019"
   },
   "EFTA00033239": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/06/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/06/2019"
   },
   "EFTA00033247": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/08/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/08/2019"
   },
   "EFTA00033208": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/07/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/07/2019"
   },
   "EFTA00033087": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/16/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/16/2019"
   },
   "EFTA00033268": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/13/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/17/2019"
   },
   "EFTA00033104": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/19/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/19/2019"
   },
   "EFTA00033311": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/21/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/21/2019"
   },
   "EFTA00033024": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 08/11/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "08/11/2019"
   },
   "EFTA00032989": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/09/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/09/2019"
   },
   "EFTA00033201": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 08/06/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "08/06/2019"
   },
   "EFTA00033266": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/13/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/13/2019"
   },
   "EFTA00033341": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/27/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/27/2019"
   },
   "EFTA00033094": {
     "tags": ["mp4", "jail"],
-    "description": "length 59:22 07/17/2019"
+    "description": "",
+    "len": "59:22",
+    "date": "07/17/2019"
   },
   "EFTA00033080": {
     "tags": ["mp4", "jail"],
-    "description": "length 1:00:25 07/15/2019"
+    "description": "",
+    "len": "1:00:25",
+    "date": "07/15/2019"
   },
   "EFTA01600824": {
-    "tags": ["mov", "jail"],
-    "description": "length 1:57:45 raw Steve Bannon interview of Epstein"
+    "tags": ["mov"],
+    "description": "raw Steve Bannon interview of Epstein",
+    "len": "1:57:45"
   },
-  "EFTA01612251": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01612251": { "tags": ["UNKNOWN"], "description": "Unidentified" },
   "EFTA01612219": {
     "tags": ["mp4"],
-    "description": "length 00:14 boat beached on shore with waves crashing around"
+    "description": "boat beached on shore with waves crashing around",
+    "len": "0:14"
   },
-  "EFTA01614277": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
+  "EFTA01614277": { "tags": ["UNKNOWN"], "description": "Unidentified" },
   "EFTA01648719": {
     "tags": ["mp4", "redaction"],
-    "description": "length 00:02 man's belly"
+    "description": "man's belly",
+    "len": "0:02"
   },
   "EFTA01648710": {
     "tags": ["mp4", "redaction"],
-    "description": "length 00:16 provacative dance"
+    "description": "provacative dance",
+    "len": "0:16"
   },
-  "EFTA01648648": { "tags": ["mp4"], "description": "length 00:25 Just black" },
+  "EFTA01648648": {
+    "tags": ["mp4"],
+    "description": "Nothing to see here",
+    "len": "0:25"
+  },
   "EFTA01648715": {
     "tags": ["mp4", "redaction"],
-    "description": "length 00:02 someone's feet at resort"
+    "description": "someone's feet at resort",
+    "len": "0:02"
   },
   "EFTA01648726": {
     "tags": ["mp4", "redaction"],
-    "description": "length 00:02 woman in revealing costume"
+    "description": "woman in revealing costume",
+    "len": "0:02"
   },
-  "EFTA01648733": { "tags": ["mp4"], "description": "length 00:25 Just black" },
-  "EFTA01648649": { "tags": ["mp4"], "description": "length 00:25 Just black" },
+  "EFTA01648733": {
+    "tags": ["mp4"],
+    "description": "Nothing to see here",
+    "len": "0:25"
+  },
+  "EFTA01648649": {
+    "tags": ["mp4"],
+    "description": "Nothing to see here",
+    "len": "0:25"
+  },
   "EFTA01648657": {
     "tags": ["mp4", "redaction"],
-    "description": "length 1:09 black and white person with music"
+    "description": "length 1:09 black and white person with music",
+    "len": "1:09"
   },
   "EFTA01621008": {
     "tags": ["mov"],
-    "description": "length 3:27:00 Just audio of speaking with heavy accent, probably eating"
+    "description": "Just audio of speaking with heavy accent, probably eating",
+    "len": "3:27:00"
   },
   "EFTA01619625": {
     "tags": ["mov"],
-    "description": "length 0:44 Deepak Chopra speaking"
+    "description": "Deepak Chopra speaking",
+    "len": "0:44"
   },
   "EFTA01619633": {
     "tags": ["mov"],
-    "description": "length 0:46 Deepak Chopra speaking"
+    "description": "Deepak Chopra speaking",
+    "len": "0:46"
   },
   "EFTA01621016": {
     "tags": ["mov"],
-    "description": "length 0:03 Epstein selfie"
+    "description": "Epstein selfie",
+    "len": "0:03"
   },
   "EFTA01621018": {
     "tags": ["mov"],
-    "description": "length 0:02 video of a pic of Epstein sitting in chair"
+    "description": "video of a pic of Epstein sitting in chair",
+    "len": "0:02"
   },
-  "EFTA01621029": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621060": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621010": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621062": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621080": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621034": { "tags": ["UNKNOWN"], "description": "Nothing to see here" },
-  "EFTA01621046": { "tags": ["UNKNOWN"], "description": "Nothing to see here" }
+  "EFTA01621029": {
+    "tags": ["mov"],
+    "description": "newspaper article 'Cosby Retrial Goes Forward as Judge Rejects Motions to Dismiss'",
+    "len": "0:02"
+  },
+  "EFTA01621060": {
+    "tags": ["mov"],
+    "description": "rumbled bed on plane",
+    "len": "0:02"
+  },
+  "EFTA01621010": {
+    "tags": ["mp4"],
+    "description": "random palm trees in stormy weather",
+    "len": "0:11"
+  },
+  "EFTA01621062": {
+    "tags": ["mov"],
+    "description": "shot down interior small plane",
+    "len": "0:02"
+  },
+  "EFTA01621080": {
+    "tags": ["mov"],
+    "description": "shot of construction at a resort?",
+    "len": "0:01"
+  },
+  "EFTA01621034": {
+    "tags": ["mov"],
+    "description": "balcony shot of pool while raining",
+    "len": "0:02"
+  },
+  "EFTA01621046": {
+    "tags": ["mov"],
+    "description": "French Culture Minister Jack Lang with Epstein in front of the Louvre in Paris",
+    "len": "0:02"
+  },
+  "EFTA01648757": {
+    "tags": ["mp4", "redaction"],
+    "description": "woman walks towards and then away from camera",
+    "len": "0:11"
+  },
+  "EFTA01648672": {
+    "tags": ["mp4", "redaction"],
+    "description": "woman posing",
+    "len": "0:18"
+  },
+  "EFTA01648775": {
+    "tags": ["mp4", "redaction"],
+    "description": "someone on edge of pool looking at someone in pool",
+    "len": "0:01"
+  },
+  "EFTA00818213": {
+    "tags": ["email"],
+    "description": "From: Richard Kahn, To: Epstein, Subject: trump making a nice move; table of polls",
+    "len": "1",
+    "date": "Sept 14 2016 14:33:10"
+  },
+  "EFTA01660651": {
+    "tags": ["email", "redaction"],
+    "description": "From: Unknown, To: Unknown, Subject: RE: NTOC Names; spreadsheet of Name, Complaint Summary, Response, Criminal History",
+    "len": "6",
+    "date": "Aug 7 2025 15:41:01"
+  },
+  "EFTA01660679": {
+    "tags": ["email", "redaction"],
+    "description": "From: Unknown, To: Unknown, Subject: RE: NTOC Names; spreadsheet of Name, Complaint Summary, Response, Criminal History",
+    "len": "6",
+    "date": "Aug 7 2025 16:08:14"
+  },
+  "EFTA00263405": {
+    "tags": ["document"],
+    "description": "Marked Wikipedia articles of Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump (out of order)",
+    "len": "15",
+    "date": "05/22/2022"
+  },
+  "EFTA00699314": {
+    "tags": ["email", "redaction"],
+    "description": "From: Philip Kafka, To: Terry Kafka, Cc: Epstein, Subject: Re: Gingrich view of Trump; email chain, contains article in content",
+    "len": "8",
+    "date": "Mar 9 2016 22:22:23"
+  },
+  "EFTA00832161": {
+    "tags": ["email", "redaction"],
+    "description": "From: Epstein, To: Philip Kafka, Cc: Terry Kafka, Subject: Re: Gingrich view of Trump; email chain, contains article in content",
+    "len": "8",
+    "date": "Mar 9 2016 22:26:09"
+  },
+  "EFTA01022627": {
+    "tags": ["email", "redaction"],
+    "description": "From: aziza alahmadi, To: Epstein; email chain, contains article in body",
+    "len": "10",
+    "date": "Sep 18 2018 20:17:46"
+  },
+  "EFTA00699322": {
+    "tags": ["email", "redaction"],
+    "description": "From: Terry Kafka, To: Philip Kafka, Cc: Epstein, Subject: RE: Gingrich view of Trump; transcript of phone call between President Trump and journalist Bob Woodward by Aaron Blake",
+    "len": "7",
+    "date": "Mar 9 2016 22:21:30"
+  },
+  "EFTA00263367": {
+    "tags": ["document"],
+    "description": "Marked Wikipedia articles of Donald Trump",
+    "len": "38",
+    "date": "05/22/2022"
+  },
+  "EFTA00716209": {
+    "tags": ["email", "redaction"],
+    "description": "From: Richard Kahn, To: Epstein, Subject: trump getting RNC bounce...; table of Race, Poll, Results, and Spread",
+    "len": "1",
+    "date": "Jul 25 2016 16:28:09"
+  },
+  "EFTA01614506": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01612353": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01617898": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01617897": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01617919": {
+    "tags": ["mp4"],
+    "description": "Tucker Carlson clip on neo-conservativism",
+    "len": "1:05",
+    "date": ""
+  },
+  "EFTA01618852": {
+    "tags": ["mov"],
+    "description": "line rider to classical music",
+    "len": "4:25",
+    "date": ""
+  },
+  "EFTA01618622": {
+    "tags": ["mov"],
+    "description": "WE Talks about event for laid off workers",
+    "len": "0:43",
+    "date": ""
+  },
+  "EFTA01615887": {
+    "tags": ["mov"],
+    "description": "Trump wall propaganda video",
+    "len": "0:41",
+    "date": ""
+  },
+  "EFTA01617570": {
+    "tags": ["mov"],
+    "description": "look around a hotel room",
+    "len": "0:15",
+    "date": ""
+  },
+  "EFTA01617868": { "tags": ["UNKNOWN"], "description": "Unidentified" },
+  "EFTA01619495": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01619258": {
+    "tags": ["mov"],
+    "description": "Tennis match",
+    "len": "0:08",
+    "date": ""
+  },
+  "EFTA01617970": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01619560": {
+    "tags": ["mov"],
+    "description": "Deepak Chopra speaking",
+    "len": "0:40",
+    "date": ""
+  },
+  "EFTA01618739": {
+    "tags": ["mov"],
+    "description": "Emoji lady asking about the island from Raine AZ",
+    "len": "0:06",
+    "date": ""
+  },
+  "EFTA01683434": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman holding Grover stuffy holding hand up to face",
+    "len": "0:07",
+    "date": ""
+  },
+  "EFTA01683371": {
+    "tags": ["mp4"],
+    "description": "Woman outside sitting on landscape planter?",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01682130": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01683409": {
+    "tags": ["mp4"],
+    "description": "Woman standing in front of wood door",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01683421": {
+    "tags": ["mp4", "redaction"],
+    "description": "Two woman sitting on plane",
+    "len": "0:09",
+    "date": ""
+  },
+  "EFTA01683424": {
+    "tags": ["mp4", "redaction"],
+    "description": "woman sitting cross legged on floor and white dog walking around",
+    "len": "0:51",
+    "date": ""
+  },
+  "EFTA01683320": {
+    "tags": ["mp4", "redaction"],
+    "description": "Only looks to be some short clips at the very beginning (first minute), unclear on details",
+    "len": "2:44:11",
+    "date": ""
+  },
+  "EFTA01683455": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman sitting outside",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683412": {
+    "tags": ["mp4", "redaction"],
+    "description": "Someone in a car",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683535": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman in front of the mirror",
+    "len": "0:15",
+    "date": ""
+  },
+  "EFTA01683358": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman in a room",
+    "len": "1:36",
+    "date": ""
+  },
+  "EFTA01683408": {
+    "tags": ["mp4", "redaction"],
+    "description": "Collection of slow motion clips of woman with some filter",
+    "len": "1:33",
+    "date": ""
+  },
+  "EFTA01683496": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman standing infront of at least 6 other woman",
+    "len": "0:40",
+    "date": ""
+  },
+  "EFTA01688339": {
+    "tags": ["mp4"],
+    "description": "recording of VLC playing Ghislaine Maxwell 'answering' questions of maybe 17 year old",
+    "len": "0:35",
+    "date": "Apr 23 2015"
+  },
+  "EFTA01683444": {
+    "tags": ["mp4", "redaction"],
+    "description": "dup of EFTA01683455?",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683533": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman posing in front of mirror",
+    "len": "0:39",
+    "date": ""
+  },
+  "EFTA01683388": {
+    "tags": ["mp4", "redaction"],
+    "description": "Someone sitting at a bungalow on a beach",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683465": {
+    "tags": ["mp4", "redaction"],
+    "description": "interior?",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683403": {
+    "tags": ["mp4", "redaction"],
+    "description": "Card for radiant ecstasy",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683397": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman sitting outside on black thing",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01683479": {
+    "tags": ["mp4", "redaction"],
+    "description": "People outside in subburban area",
+    "len": "0:31",
+    "date": ""
+  },
+  "EFTA01683441": {
+    "tags": ["mp4", "redaction"],
+    "description": "Person in front of door",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01683478": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman in front of a building",
+    "len": "0:00",
+    "date": ""
+  },
+  "EFTA01683406": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman inside a room",
+    "len": "0:08",
+    "date": ""
+  },
+  "EFTA01648501": {
+    "tags": ["mp4", "redaction"],
+    "description": "something from teensleepover.com",
+    "len": "0:05",
+    "date": ""
+  },
+  "EFTA01648586": {
+    "tags": ["mp4", "redaction"],
+    "description": "woman posing, maybe multiple clips",
+    "len": "0:37",
+    "date": ""
+  },
+  "EFTA01648610": {
+    "tags": ["mp4", "redaction"],
+    "description": "Unknown",
+    "len": "0:12",
+    "date": ""
+  },
+  "EFTA01648599": {
+    "tags": ["mp4", "redaction"],
+    "description": "Girl on bed",
+    "len": "2:38",
+    "date": ""
+  },
+  "EFTA01648720": {
+    "tags": ["mp4", "redaction"],
+    "description": "man's belly",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01648767": {
+    "tags": ["mp4", "redaction"],
+    "description": "Person or people dancing in room",
+    "len": "2:24",
+    "date": ""
+  },
+  "EFTA01648566": {
+    "tags": ["mp4", "redaction"],
+    "description": "woman on bed?",
+    "len": "0:26",
+    "date": ""
+  },
+  "EFTA01648737": {
+    "tags": ["mp4", "redaction"],
+    "description": "girl on hands and knees in open doorway",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01648598": {
+    "tags": ["mp4", "redaction"],
+    "description": "Person? with stuffed bear in front of curtains",
+    "len": "1:16",
+    "date": ""
+  },
+  "EFTA01648569": {
+    "tags": ["mp4", "redaction"],
+    "description": "Collection of clips of women?",
+    "len": "0:28",
+    "date": ""
+  },
+  "EFTA01621041": {
+    "tags": ["mov"],
+    "description": "Epstein selfie",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01621057": {
+    "tags": ["mov"],
+    "description": "inside of a plane",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01621084": {
+    "tags": ["mov"],
+    "description": "Blue jet N212JE",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01621071": {
+    "tags": ["mov"],
+    "description": "Sunset by water",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01621056": {
+    "tags": ["mov"],
+    "description": "Inside a plane",
+    "len": "0:00",
+    "date": ""
+  },
+  "EFTA01621037": {
+    "tags": ["mov"],
+    "description": "Piece of jewelry",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01621059": {
+    "tags": ["mov"],
+    "description": "Inside a plane",
+    "len": "0:00",
+    "date": ""
+  },
+  "EFTA01621075": {
+    "tags": ["mov"],
+    "description": "Sunset by water",
+    "len": "0:03",
+    "date": ""
+  },
+  "EFTA01621086": {
+    "tags": ["mov"],
+    "description": "dup of EFTA01621084?",
+    "len": "0:02",
+    "date": ""
+  },
+  "EFTA01621017": {
+    "tags": ["mov"],
+    "description": "Cliffside shore",
+    "len": "1:09",
+    "date": ""
+  },
+  "EFTA01616872": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01621067": {
+    "tags": ["mov"],
+    "description": "White and blue horizontal stripped building in tropical area",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01621020": {
+    "tags": ["mov"],
+    "description": "Boat at dock that is sunk",
+    "len": "0:03",
+    "date": ""
+  },
+  "EFTA01621043": {
+    "tags": ["mov"],
+    "description": "Interior of aircraft",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01622052": {
+    "tags": ["mov"],
+    "description": "Three guys in a small boat",
+    "len": "0:05",
+    "date": ""
+  },
+  "EFTA01621919": {
+    "tags": ["mov"],
+    "description": "Night pan of old column building ruins",
+    "len": "0:42",
+    "date": ""
+  },
+  "EFTA01621098": {
+    "tags": ["mov"],
+    "description": "Rocky path and building in tropics",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01622053": {
+    "tags": ["mov"],
+    "description": "Woman jumping into water",
+    "len": "0:07",
+    "date": ""
+  },
+  "EFTA01621026": {
+    "tags": ["mov"],
+    "description": "Damaged building on hill with white car driving past",
+    "len": "0:03",
+    "date": ""
+  },
+  "EFTA01620904": {
+    "tags": ["mp4"],
+    "description": "Toby the Devil, laugh therapy",
+    "len": "4:35",
+    "date": ""
+  },
+  "EFTA01621094": {
+    "tags": ["UNKNOWN"],
+    "description": "Unidentified",
+    "len": "",
+    "date": ""
+  },
+  "EFTA01621022": {
+    "tags": ["mov"],
+    "description": "Capsized boat on side at dock",
+    "len": "0:02",
+    "date": ""
+  }
 }

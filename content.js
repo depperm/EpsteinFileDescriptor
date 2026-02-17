@@ -31,7 +31,6 @@ function getDocumentId(resultItem) {
   return null;
 }
 
-// Function to create tags element
 function createTagsElement(tags) {
   const tagsDiv = document.createElement("div");
   tagsDiv.className = "enhanced-tags";
@@ -46,12 +45,25 @@ function createTagsElement(tags) {
   return tagsDiv;
 }
 
-// Function to create description element
 function createDescriptionElement(description) {
   const descDiv = document.createElement("div");
   descDiv.className = "enhanced-description";
   descDiv.textContent = description;
   return descDiv;
+}
+
+function createLengthElement(len) {
+  const lenDiv = document.createElement("div");
+  lenDiv.className = "enhanced-length";
+  lenDiv.innerHTML = `length: <strong>${len}${!isNaN(len) ? " pages" : ""}</strong>`;
+  return lenDiv;
+}
+
+function createDateElement(date) {
+  const dateDiv = document.createElement("div");
+  dateDiv.className = "enhanced-date";
+  dateDiv.innerHTML = `date: ${date}`;
+  return dateDiv;
 }
 
 // Function to enhance a single result item
@@ -73,6 +85,14 @@ function enhanceResultItem(resultItem) {
   if (!excerpt) {
     return;
   }
+
+  // Create and insert length
+  const lenElement = createLengthElement(data.len);
+  excerpt.parentNode.insertBefore(lenElement, excerpt.nextSibling);
+
+  // Create and insert date
+  const dateElement = createDateElement(data.date);
+  excerpt.parentNode.insertBefore(dateElement, excerpt.nextSibling);
 
   // Create and insert tags
   const tagsElement = createTagsElement(data.tags);

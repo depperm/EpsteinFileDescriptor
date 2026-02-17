@@ -23,4 +23,5 @@
 }
 .tag-chip.redaction {
     text-decoration: line-through;
+    background-color: black;
 }
