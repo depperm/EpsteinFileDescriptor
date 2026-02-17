@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Epstein File Description",
   "version": "1.0",
-  "description": "Frustrated by the lack of details about the Epstein files. Don't want to click each one. This extension adds tags and descriptions to Epstein files.",
+  "description": "This extension adds tags, length, date, and descriptions to Epstein files.",
   "permissions": ["storage"],
   "content_scripts": [
     {
