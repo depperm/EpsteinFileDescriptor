@@ -55,14 +55,17 @@ function createDescriptionElement(description) {
 function createLengthElement(len) {
   const lenDiv = document.createElement("div");
   lenDiv.className = "enhanced-length";
-  lenDiv.innerHTML = `length: <strong>${len}${!isNaN(len) ? " pages" : ""}</strong>`;
+  lenDiv.innerHTML =
+    len && !!len.length
+      ? `length: <strong>${len}${!isNaN(len) ? " pages" : ""}</strong>`
+      : "";
   return lenDiv;
 }
 
 function createDateElement(date) {
   const dateDiv = document.createElement("div");
   dateDiv.className = "enhanced-date";
-  dateDiv.innerHTML = `date: ${date}`;
+  dateDiv.innerHTML = date && !!date.length ? `date: ${date}` : "";
   return dateDiv;
 }
 

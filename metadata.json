@@ -1063,5 +1063,65 @@
     "description": "Capsized boat on side at dock",
     "len": "0:02",
     "date": ""
+  },
+  "EFTA01683393": {
+    "tags": ["mp4", "redaction"],
+    "description": "Woman in front of wood door",
+    "len": "0:01",
+    "date": ""
+  },
+  "EFTA01683506": {
+    "tags": ["mp4"],
+    "description": "Man walks into room and opens cupboards",
+    "len": "0:11",
+    "date": ""
+  },
+  "EFTA01688329": {
+    "tags": ["mp4", "redaction"],
+    "description": "Female dancing with hat",
+    "len": "0:09",
+    "date": ""
+  },
+  "EFTA01688328": {
+    "tags": ["mp4", "redaction"],
+    "description": "Female in bikini and heels in doorway, walks towards camera and back",
+    "len": "0:26",
+    "date": ""
+  },
+  "EFTA01683369": {
+    "tags": ["mp4"],
+    "description": "Sunset at ocean",
+    "len": "0:03",
+    "date": ""
+  },
+  "EFTA01683462": {
+    "tags": ["mp4"],
+    "description": "Female? sitting outside in city",
+    "len": "0:34",
+    "date": ""
+  },
+  "EFTA01688337": {
+    "tags": ["mp4"],
+    "description": "Ghislaine Maxwell 'answering' questions, extended clip of EFTA01688339",
+    "len": "1:18",
+    "date": "Apr 22 2016"
+  },
+  "EFTA01683527": {
+    "tags": ["mp4", "redaction"],
+    "description": "dup of EFTA01683496?",
+    "len": "0:40",
+    "date": ""
+  },
+  "EFTA01683354": {
+    "tags": ["mp4", "redaction"],
+    "description": "Female sitting in city restaurant",
+    "len": "0:06",
+    "date": ""
+  },
+  "EFTA01683410": {
+    "tags": ["mp4", "redaction"],
+    "description": "Two woman on aircraft and male, related EFTA01683421?",
+    "len": "0:09",
+    "date": ""
   }
 }
