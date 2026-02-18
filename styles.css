@@ -9,7 +9,10 @@
     color: #f1f1f1;
     margin: 2px;
 }
-
+hr {
+    margin-top: 2px !important;
+    margin-bottom: 2px !important;
+}
 .tag-chip.UNKNOWN {
     background-color: rgb(92 92 92);
 }
@@ -23,5 +26,8 @@
 }
 .tag-chip.redaction {
     text-decoration: line-through;
-    background-color: black;
+    color: black;
+    border: 1px solid black;
+    text-decoration-thickness: 4px;
+    background-color: white;
 }

@@ -25,8 +25,14 @@ click on a file and change (pdf->mp4/mov)
 
 Dataset 10 starts page 15 of results (Dataset 8 is mostly jail)
 
-### Get Metadata Template (for adding to extension)
+### Get Metadata JSON Template (for adding to extension)
 From console
 ```
 JSON.stringify(Object.fromEntries(Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>[link.textContent.replaceAll('.pdf',''), {tags: ['UNKNOWN'], description: '', len: '', date: ''}])))
+```
+
+### Get Metadata CSV Template (for adding to extension)
+From console
+```
+Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>`${link.textContent.replaceAll('.pdf','')},UNKNOWN,,,`).join('\n')
 ```

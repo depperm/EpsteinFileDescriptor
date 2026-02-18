@@ -1,26 +1,46 @@
-// Storage for metadata loaded from JSON file
 let metadata = {};
 
-// Load metadata from JSON file
 async function loadMetadata() {
-  try {
-    const url = chrome.runtime.getURL("metadata.json");
-    const response = await fetch(url);
+  const url = chrome.runtime.getURL("metadata.csv");
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-
-    metadata = await response.json();
-    return true;
-  } catch (error) {
-    console.error("Error loading metadata:", error);
-    console.error("URL attempted:", chrome.runtime.getURL("metadata.json"));
-    return false;
-  }
+  await fetch(url)
+    .then((response) => response.text())
+    .then((text) => {
+      const lines = text.split("\n").map((line) => {
+        const fields = [];
+        let value = "";
+        let insideQuotes = false;
+        for (let i = 0; i < line.length; i++) {
+          const char = line[i];
+          if (char === '"') {
+            insideQuotes = !insideQuotes;
+          } else if (char === "," && !insideQuotes) {
+            fields.push(value);
+            value = "";
+          } else {
+            value += char;
+          }
+        }
+        fields.push(value);
+        return fields;
+      });
+      lines.forEach((line) => {
+        metadata[line[0]] = {
+          tags: line[1].split("-"),
+          description: line[2],
+          len: line[3],
+          date: line[4],
+        };
+      });
+      return true;
+    })
+    .catch((error) => {
+      console.error("Error loading metadata:", error);
+      console.error("URL attempted:", chrome.runtime.getURL("metadata.csv"));
+      return false;
+    });
 }
 
-// Function to extract document ID from result item
 function getDocumentId(resultItem) {
   const link = resultItem.querySelector("h3 a");
   if (link) {
@@ -48,7 +68,7 @@ function createTagsElement(tags) {
 function createDescriptionElement(description) {
   const descDiv = document.createElement("div");
   descDiv.className = "enhanced-description";
-  descDiv.textContent = description;
+  descDiv.innerHTML = description;
   return descDiv;
 }
 
@@ -57,7 +77,7 @@ function createLengthElement(len) {
   lenDiv.className = "enhanced-length";
   lenDiv.innerHTML =
     len && !!len.length
-      ? `length: <strong>${len}${!isNaN(len) ? " pages" : ""}</strong>`
+      ? `length: <strong>${len}${!isNaN(len) ? ` page${len === "1" ? "" : "s"}` : ""}</strong>`
       : "";
   return lenDiv;
 }
@@ -69,9 +89,7 @@ function createDateElement(date) {
   return dateDiv;
 }
 
-// Function to enhance a single result item
 function enhanceResultItem(resultItem) {
-  // Check if already enhanced
   if (resultItem.querySelector(".enhanced-tags")) {
     return;
   }
@@ -83,36 +101,34 @@ function enhanceResultItem(resultItem) {
 
   const data = metadata[docId];
 
-  // Find the excerpt paragraph to insert after
   const excerpt = resultItem.querySelector(".result-excerpt");
   if (!excerpt) {
     return;
   }
 
-  // Create and insert length
-  const lenElement = createLengthElement(data.len);
-  excerpt.parentNode.insertBefore(lenElement, excerpt.nextSibling);
-
-  // Create and insert date
-  const dateElement = createDateElement(data.date);
-  excerpt.parentNode.insertBefore(dateElement, excerpt.nextSibling);
-
-  // Create and insert tags
   const tagsElement = createTagsElement(data.tags);
-  excerpt.parentNode.insertBefore(tagsElement, excerpt.nextSibling);
+  // excerpt.parentNode.insertBefore(tagsElement, excerpt.nextSibling);
+  excerpt.appendChild(tagsElement);
 
-  // Create and insert description
+  const lenElement = createLengthElement(data.len);
+  // excerpt.parentNode.insertBefore(lenElement, excerpt.nextSibling);
+  excerpt.appendChild(lenElement);
+
+  const dateElement = createDateElement(data.date);
+  // excerpt.parentNode.insertBefore(dateElement, excerpt.nextSibling);
+  excerpt.appendChild(dateElement);
+  excerpt.appendChild(document.createElement("hr"));
+
   const descElement = createDescriptionElement(data.description);
-  tagsElement.parentNode.insertBefore(descElement, tagsElement.nextSibling);
+  // tagsElement.parentNode.insertBefore(descElement, tagsElement.nextSibling);
+  excerpt.appendChild(descElement);
 }
 
-// Function to enhance all result items on the page
 function enhanceAllResults() {
   const resultItems = document.querySelectorAll(".result-item");
   resultItems.forEach(enhanceResultItem);
 }
 
-// Initialize when DOM is ready
 async function initialize() {
   await loadMetadata();
   enhanceAllResults();
@@ -124,16 +140,13 @@ if (document.readyState === "loading") {
   initialize();
 }
 
-// Watch for dynamically added content
 const observer = new MutationObserver((mutations) => {
   mutations.forEach((mutation) => {
     mutation.addedNodes.forEach((node) => {
       if (node.nodeType === 1) {
-        // Element node
         if (node.classList && node.classList.contains("result-item")) {
           enhanceResultItem(node);
         }
-        // Check children
         const resultItems =
           node.querySelectorAll && node.querySelectorAll(".result-item");
         if (resultItems) {
