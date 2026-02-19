@@ -15,6 +15,9 @@ This is a WIP as there are 3 million files (~3,000 videos) and the DOJ search re
 3. Ensure you're on Developer mode (top right)
 4. Click Load unpacked, and select unzipped file from step 2
 
+## Why CSV, what about...
+I started with JSON, but CSV has a few benefits. Fewer characters means smaller file, format allows examination/filtering in spreadsheet app, and adding data is easier.
+
 ## Helpful Hints
 
 ### Videos
@@ -36,3 +39,8 @@ From console
 ```
 Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>`${link.textContent.replaceAll('.pdf','')},UNKNOWN,,,`).join('\n')
 ```
+
+## TODO
+- So many files....
+- Add people mentioned and tooltip or link about them
+- format all dates to be the same

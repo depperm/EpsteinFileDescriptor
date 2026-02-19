@@ -1,6 +1,6 @@
 file,tags,description,length,date
 EFTA00221048,UNKNOWN,Unidentified,undefined,undefined
-EFTA01660651,email-redaction,"From: Unknown<br/>To: Unknown<br/>Subject: RE: NTOC Names<br/>spreadsheet of Name, Complaint Summary, Response, Criminal History",6,Aug 7 2025 15:41:01
+EFTA01660651,email-redaction,"From: Redacted<br/>To: Redacted<br/>Subject: RE: NTOC Names<br/>spreadsheet of Name, Complaint Summary, Response, Criminal History",6,Aug 7 2025 15:41:01
 EFTA00776196,UNKNOWN,,undefined,undefined
 EFTA00759424,UNKNOWN,,undefined,undefined
 EFTA00179444,UNKNOWN,,undefined,undefined
@@ -144,7 +144,7 @@ EFTA01612251,UNKNOWN,Unidentified,undefined,undefined
 EFTA01612219,mp4,boat beached on shore with waves crashing around,0:14,undefined
 EFTA01614277,UNKNOWN,Unidentified,undefined,undefined
 EFTA01648719,mp4-redaction,man's belly,0:02,undefined
-EFTA01648710,mp4-redaction,provacative dance,0:16,undefined
+EFTA01648710,mp4-redaction-nsfw,provacative dance,0:16,undefined
 EFTA01648648,mp4,Nothing to see here,0:25,undefined
 EFTA01648715,mp4-redaction,someone's feet at resort,0:02,undefined
 EFTA01648726,mp4-redaction,woman in revealing costume,0:02,undefined
@@ -167,7 +167,7 @@ EFTA01648757,mp4-redaction,woman walks towards and then away from camera,0:11,un
 EFTA01648672,mp4-redaction,woman posing,0:18,undefined
 EFTA01648775,mp4-redaction,someone on edge of pool looking at someone in pool,0:01,undefined
 EFTA00818213,email,From: Richard Kahn<br/>To: Epstein<br/>Subject: trump making a nice move<br/>table of polls,1,Sept 14 2016 14:33:10
-EFTA01660679,email-redaction,"From: Unknown<br/>To: Unknown<br/>Subject: RE: NTOC Names<br/>spreadsheet of Name, Complaint Summary, Response, Criminal History",6,Aug 7 2025 16:08:14
+EFTA01660679,email-redaction,"From: Redacted<br/>To: Redacted<br/>Subject: RE: NTOC Names<br/>spreadsheet of Name, Complaint Summary, Response, Criminal History",6,Aug 7 2025 16:08:14
 EFTA00263405,document,"Marked Wikipedia articles of Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump (out of order)",15,05/22/2022
 EFTA00699314,email-redaction,"From: Philip Kafka<br/>To: Terry Kafka<br/>Cc: Epstein<br/>Subject: Re: Gingrich view of Trump<br/>email chain, contains article in content",8,Mar 9 2016 22:22:23
 EFTA00832161,email-redaction,"From: Epstein<br/>To: Philip Kafka<br/>Cc: Terry Kafka<br/>Subject: Re: Gingrich view of Trump<br/>email chain, contains article in content",8,Mar 9 2016 22:26:09
@@ -216,7 +216,7 @@ EFTA01683478,mp4-redaction,Woman in front of a building,0:00,
 EFTA01683406,mp4-redaction,Woman inside a room,0:08,
 EFTA01648501,mp4-redaction,something from teensleepover.com,0:05,
 EFTA01648586,mp4-redaction,woman posing, maybe multiple clips,0:37,
-EFTA01648610,mp4-redaction,Unknown,0:12,
+EFTA01648610,mp4-redaction,UNKNOWN,0:12,
 EFTA01648599,mp4-redaction,Girl on bed,2:38,
 EFTA01648720,mp4-redaction,man's belly,0:01,
 EFTA01648767,mp4-redaction,Person or people dancing in room,2:24,
@@ -258,20 +258,20 @@ EFTA01683354,mp4-redaction,Female sitting in city restaurant,0:06,
 EFTA01683410,mp4-redaction,Two woman on aircraft and male, related EFTA01683421?,0:09,
 EFTA00796097,document-redaction,Gulfstream Product Support Proposal,16,Dec 18 2017
 EFTA01216870,document,Profibus PA Valve Positioner User's Guide,52,
-EFTA00670755,email-redaction,From: Unknown<br/>To: Epstein<br/>TOEFL Reschedule Policy,2,Feb 27 2013 20:10:23
+EFTA00670755,email-redaction,From: Redacted<br/>To: Epstein<br/>TOEFL Reschedule Policy,2,Feb 27 2013 20:10:23
 EFTA01329414,document,FAA Forms,310,8/22/2019
-EFTA02002609,email-redaction,To: Epstein<br/>From: Unknown<br/>Subject: DAT info<br/>About DAT (American Dental Association),1,5/23/2011 2:25:59 PM
-EFTA01901337,email-redaction,To: Unknown<br/>From: Epstein<br/>Subject: Re:<br/>TOEFL Reschedule Policy,2,2/27/2013 8:39:55 PM
+EFTA02002609,email-redaction,To: Epstein<br/>From: Redacted<br/>Subject: DAT info<br/>About DAT (American Dental Association),1,5/23/2011 2:25:59 PM
+EFTA01901337,email-redaction,To: Redacted<br/>From: Epstein<br/>Subject: Re:<br/>TOEFL Reschedule Policy,2,2/27/2013 8:39:55 PM
 EFTA00875220,UNKNOWN,,,
 EFTA00589859,document-redaction,Gulfstream Product Support,24,Feb 3 2016
 EFTA01987155,email-redaction,To: Epstein<br/>From: Karina Shuliak<br/>Subject: Re: Fwd: DAT info<br/>About DAT (American Dental Association),1,3/7/2012 2:56:02 PM
-EFTA02722574,email-redaction,To: Epstein<br/>From: Unknown<br/>Subject: Re<br/>TOEFL Reschedule Policy,2,2/27/2013 9:05:43 PM
+EFTA02722574,email-redaction,To: Epstein<br/>From: Redacted<br/>Subject: Re<br/>TOEFL Reschedule Policy,2,2/27/2013 9:05:43 PM
 EFTA01648547,mp4-redaction,person smacking someone/something,0:12,
 EFTA01648567,mp4-redaction,people dancing on otherside of desk,2:50,
 EFTA01648777,mp4,small dog fighting hand,0:42,
 EFTA01648727,mp4-redaction,women in revealing costume,0:03,
 EFTA01648593,mp4-redaction,person dancing in kitchen,0:27,
-EFTA01648596,mp4-redaction,woman masturbating on bed,1:49,
+EFTA01648596,mp4-redaction-nsfw,woman masturbating on bed,1:49,
 EFTA01648545,mp4-redaction,people dancing on otherside of desk,2:14,
 EFTA01648771,mp4-redaction,collection of clips of women,2:10,
 EFTA01648755,mp4-redaction,person on bed,2:22,
@@ -290,7 +290,7 @@ EFTA01648781,mp4-redaction,female photographer,0:02,
 EFTA01648601,mp4-redaction,girls dancing on the otherside of a desk,3:42,
 EFTA01648693,mp4-redaction,people dancing on otherside of desk,3:27,
 EFTA01648634,mp4-redaction,someone dancing in office,0:54,
-EFTA01648752,mp4-redaction,girl dancing in provacative outfit,1:16,
+EFTA01648752,mp4-redaction-nsfw,girl dancing in provacative outfit,1:16,
 EFTA01648654,mp4-redaction,two people outside by shore,0:41,
 EFTA01648679,mp4-redaction,people dancing on otherside of desk,2:24,
 EFTA01648664,mp4-redaction,girl flipping hair,0:54,
@@ -319,10 +319,68 @@ EFTA01648772,mp4-redaction,woman doing something on a bed,9:47,
 EFTA00610929,document,United States district court southern district of Florida case no 09-60331<br/>US vs Scott W Rothstein,36,
 EFTA00683125,document,United States district court southern district of Florida case no 09-60331<br/>US vs Scott W Rothstein,36,
 EFTA00223265,document,Assistant United States Attorney's Office Southern District of Florida,106,Dec 9 2009
-EFTA00173197,email-redaction,From: Unknown<br/>Subject: FW: Epstein co-conspirators --- UNCLASSIFIED<br/>Asking for information (dob, pob),4,Aug 16 2019 15:54:19
-EFTA00175080,email-redaction,From: Unknown<br/>To: Unknown<br/>Cc: Unknown<br/>Subject: Re: Epstein co-conspirators --- UNCLASSIFIED<br/>thanking for reply,3,Aug 16 2019 18:20:28
+EFTA00173197,email-redaction,From: Redacted<br/>Subject: FW: Epstein co-conspirators --- UNCLASSIFIED<br/>Asking for information (dob, pob),4,Aug 16 2019 15:54:19
+EFTA00175080,email-redaction,From: Redacted<br/>To: Redacted<br/>Cc: Redacted<br/>Subject: Re: Epstein co-conspirators --- UNCLASSIFIED<br/>thanking for reply,3,Aug 16 2019 18:20:28
 EFTA00724098,document,"scan of newspaper articles: Lawyer adds more defendants to lawsuit and Deep-pocketed defendants added to investors' lawsuit by Julie Kay, Counterclaim Whitney Education Group vs Rothstein Rosenfeldt Adler",16,
 EFTA00795588,document,"Epstein vs Scott Rothstein, Bradley J Edwards, L.M",103,
-EFTA00729404,document-redaction,"Epstein vs Scott Rothstein, Bradley J Edwards, Unknown",103,Dec 7 2009
+EFTA00729404,document-redaction,"Epstein vs Scott Rothstein, Bradley J Edwards, Redacted",103,Dec 7 2009
 EFTA00596488,document,"Epstein vs Scott Rothstein, Bradley J Edwards, L.M",82,
 EFTA00811809,document,"Marvin Gerber and Kalma Koenig vs the Financial Trust company, XYZ corporation, ABC inc, and Epstein",51,8/22/18
+EFTA00005284,document-redaction,scanned collection of photos mostly,97,Sept 2
+EFTA00258524,document,scan of physical CDs,17,2002
+EFTA01041250,email-redaction,From: Terje Rod-Larsen<br/>To: Epstein<br/>Subject: Fwd: Clinton visit to OSLO Clips 7.5.17<br/>list of news articles,3,Jul 10 2017 11:36:45
+EFTA00635819,email-redaction,From: Peter Attia<br/>To: Epstein<br/>Subject: Bill Clinton Encouraged Donald Trump to Run<br/>Article: Bill Clinton reportedly had an intriguing phone call with Donald Trump weeks before his campaign launch,2,Aug 6 2015 00:41:53
+EFTA02393777,email-redaction,From: Richard Kahn<br/>To: Epstein<br/>Subject: Clinton<br/>call confirmation between Epstein and Clinton,4,Apr 15 2016 2:54
+EFTA00151188,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: FW: RE Bill Clinton<br/>Question about why Clinton made 32 trips to Epstein island,1,Jul 6 2020 18:55:14
+EFTA02412903,email,To: Epstein<br/>From: gmax<br/>Subject: FW: FYI...<br/>article Clinton Divorce crisis,2,4/13/2009 11:47:10
+EFTA00748768,email-redaction,To: Epstein<br/>From: gmax<br/>Subject: FW: FYI...<br/>article Clinton Divorce crisis,2,4/13/2009 23:47:10
+EFTA00554932,email-redaction,To: Redacted<br/>From: Redacted<br/>request for mailing address for Les Wexner,1,9/5/2012 4:59:58 PM
+EFTA02160961,email-redaction,To: Lesley Groff<br/>From: Redacted<br/>request for mailing address for Les Wexner,1,9/5/2012 4:59:58 PM
+EFTA00405947,email-redaction,To: Redacted<br/>From: Redacted<br/>office/home address for Les Wexner,1,9/5/2012 17:09:35
+EFTA02160968,email-redaction,To: Redacted<br/>From: Lesley Groff<br/>office/home address for Les Wexner,1,9/5/2012 17:09:35
+EFTA02332441,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: b-day book update<br/>list of names,1,12/24/2002 6:08:11 PM
+EFTA02422998,email-redaction,To: Epstein<br/>From: Lesley Groff<br/>Subject: Les Wexner email<br/>request for Les Wexner email,1,9/8/2010 6:04:45 PM
+EFTA02315911,email-redaction,To: Lesley Groff<br/>From: Redacted<br/>Request for mailing address for Les Wexner,1,Sept 5 2012 5:00 PM
+EFTA00161528,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: Fw: Names in JE file<br/>list of names with positive case hits,1,Jul 22 2025 23:45:46
+EFTA00179434,document-redaction,Various things on Les Wexner,8,8/8/07
+EFTA01416828,email-redaction,To: Redacted<br/>From: Google Alerts<br/>Subject: Google Alert - leon black<br/>news update,1,Jul 15 2019 14:02:35
+EFTA02079497,email-redaction,"To: Jojo Fontanilla, Merwin Dela Cruz<br/>From: Redacted<br/>Subject: gift for Kathy Ruemmler<br/>Epstein has gift for Kathy, Jojo to deliver",1,4/22/2015 7:40:22
+EFTA00869511,email-redaction,To:Epstein<br/>From: Lesley Groff<br/>Subject: Reminder: Kathy Ruemmler in NY Sept 24/25<br/>reminder of Kathy in NY,1,Sept 19 2014 11:08:59
+EFTA02387353,email-redaction,"To: Epstein<br/>From: Lesley Groff<br/>Cc: Lyn Fontanilla, Jojo Fontanilla, Merwin Dela Cruz<br/>Subject: Kathy Ruemmler<br/>Kathy appointment",1,Jul 15 2014 12:21
+EFTA00693962,email-redaction,"To: Epstein<br/>From: Redacted<br/>Cc: Lyn Fontanilla, Jojo Fontanilla, Merwin Dela Cruz<br/>Subject: Kathy Ruemmler<br/>Kathy appointment",1,Jul 15 2014 12:21:26
+EFTA00358466,email-redaction,To: Kathy Ruemmler<br/>From: Redacted<br/>Subject: Re: Jeffrey Epstein<br/>appointment confirmation chain,2,Nov 19 2014 18:05:55
+EFTA02079034,email-redaction,"To: Lyn Fontanilla, Jojo Fontanilla, Merwin Dela Cruz<br/>From: Lesley Groff<br/>Subject: 5pm Kathy Ruemmler<br/>Kathy appointment",1,5/5/2015 7:08:41 PM
+EFTA00366755,email-redaction,"To: Epstein<br/>From: Lyn Fontanilla, Jojo Fontanilla, Merwin Dela Cruz<br/>Subject: Kathy Ruemmler<br/>Kathy appointment",1,Jul 15 2014 12:21:26
+EFTA00855128,email-redaction,To: Epstein<br/>From: Redacted<br/>Subject: Kathy Ruemmler<br/>Kathy appointment,1,Mar 20 2018 1:49:25
+EFTA02082692,email-redaction,"To: Epstein<br/>From: Lesley Groff<br/>Cc: Jojo, Merwin Dela Cruz<br/>Subject: Kathy Ruemmler<br/>confirmation for lunch date",1,3/17/2015 6:59:06 PM
+EFTA00862067,email-redaction,"To: Epstein<br/>From: Redacted<br/>Cc: Lyn fontanilla, Jojo fontanilla, Merwin Dela Cruz<br/>Subject: Kathy Ruemmler<br/>confirmation of lunch date",1,Mar 17 2015 18:59:06
+EFTA00149598,email-redaction,To: Redacted (NY) (FBI)<br/>From: Redacted (NY) (FBI)<br/>CC: Redacted<br/>Subject: Fwd: FW: Prince Andrew<br/>Query about Epstein case,1,Jun 8 2020 15:42:47
+EFTA00024474,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: NYTimes: Prince Andrew Sought Washington Lobbyist to Help With Epstein Case<br/>link to article,1,Jul 5 2020 20:53:30
+EFTA02411832,email-redaction,"To: Redacted, Epstein, Redacted<br/>From: Peggy Siegal<br/>Subject: Re: thursday small dinner for Prince Andrew<br/>dinner plans for Prince Andrew",2,12/3/2010 12:41:09 AM
+EFTA00016000,email-redaction,"To: Redacted (USANYS)<br/>From: Biase, Nicholas (USANYS)<br/>Cc: Redacted<br/>Subject: RE: Prince Andrew as Epstein Witness? - HuffPost<br/>Response to news Prince Andrew might submit to questioning",1,Nov 21 2019 19:52:03
+EFTA00017940,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: NYTimes: Prince Andrew Says He 'Let the Side Down' When He Stayed With Jeffrey Epstein<br/>link to article,1,Nov 16 2019 14:34:10
+EFTA00099391,email-redaction,To: The Central Authority of the United Kingdom<br/>From: The Central Authority of the United States<br/>Subject: Request for Assistance in the Matter of Material Witness PA<br/>Request to interview Prince Andrew,22,Apr 3 2020
+EFTA00100652,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: RE: STATEMENT OF U.S. ATTORNEY GEOFFREY S. BERMAN RESPONDING TO STATEMENT ISSUED TODAY BY LAW FIRM REPRESENTING PRINCE ANDREW<br/>disbelief at US Southern District of New York portrayal of Prince Andrew,1,Jun 8 2020 19:34:19
+EFTA00087994,email-redaction,TO: The Central Authority of the United Kingdom<br/>FROM: The Central Authority of the United States<br/>SUBJECT: Request for Assistance in the Matter of Material Witness PA<br/>Request to interview Prince Andrew,22,Apr 3 2020
+EFTA00072842,email-redaction,TO: The Central Authority of the United Kingdom<br/>FROM: The Central Authority of the United States<br/>SUBJECT: Request for Assistance in the Matter of Material Witness PA<br/>Request to interview Prince Andrew,22,Apr 3 2020
+EFTA00022343,email-redaction,To: Redacted<br/>From: Redacted<br/>Subject: RE: Prince Andrew 'maybe has something to hide': Epstein butler<br/>response to article link,1,May 31 2020 17:36:44
+EFTA01300157,email-redaction,"To: Epstein<br/>From: Jes Staley<br/>Subject: Re: Fw:Emailing: Jes Staley 90' yawl 228jpg, Jes Staley 90' yawl 232jpg, Jes Staley 90' yawl235.jpg, Jes Staley 90' yawl 236.jpg, Jes Staley 90' yawl 237.jpg, Jes Staley 90' yawl 238.jpg, JesStaley 90' yawl 239.jpg<br/>attachments",1,Jun 14 2009 5:35:09
+EFTA01300164,email-redaction,"To: Epstein<br/>From: Jes Staley<br/>Subject: Re: Fw:Emailing: Jes Staley 90' yawl 228jpg, Jes Staley 90' yawl 232jpg, Jes Staley 90' yawl235.jpg, Jes Staley 90' yawl 236.jpg, Jes Staley 90' yawl 237.jpg, Jes Staley 90' yawl 238.jpg, JesStaley 90' yawl 239.jpg<br/>attachments",1,Jun 14 2009 7:00:46 PM
+EFTA00750096,email-redaction,"To: Epstein<br/>From: Jes Staley<br/>Subject: Re: Fw:Emailing: Jes Staley 90' yawl 228jpg, Jes Staley 90' yawl 232jpg, Jes Staley 90' yawl235.jpg, Jes Staley 90' yawl 236.jpg, Jes Staley 90' yawl 237.jpg, Jes Staley 90' yawl 238.jpg, JesStaley 90' yawl 239.jpg<br/>attachments",1,Jun 14 2009 18:00:46
+EFTA00775733,email-redaction,To: Epstein<br/>From: Jes Staley<br/>Subject: Redacted<br/>attachments,1,Jun 14 2009 16:35:09
+EFTA00396225,email-redaction,To: Darren Indyke<br/>From: Lesley Groff<br/>Subject: 4:30 Wed Feb. 13th. Jes Staley ADDRESS,1,Feb 11 2013 15:55:42
+EFTA02423369,email-redaction,To: Epstein<br/>From: Jes Staley<br/>Subject: Re:,1,8/27/2010 5:40:21 PM
+EFTA00758270,email-redaction,To: Epstein<br/>From: Jes Staley<br/>Subject: Re:,1,Aug 27 2010 17:40:21
+EFTA02013110,email-redaction,To: Epstein<br/>From: Lesley Groff<br/>Subject: Jes Staley and Alexa<br/>Jes Staley and Alexa stopping by,1,1/27/2012 6:10:27 PM
+EFTA02421684,email-redaction,To: Epstein<br/>From: Juliet N Pullis<br/>Subject: HFT,1,9/15/2010 10:49:09 PM
+EFTA00418770,email-redaction,To: Darren Indyke<br/>From: Lesley Groff<br/>Subject: Fwd: Jes Staley<br/>forwarded message with Jes Staley address,1,Mar 1 2012 21:03:43
+EFTA00363549,email-redaction,To: Epstein<br/>From: Redacted<br/>Subject: Leon Botstein<br/>appointment schedule,1,Sep 5 2014 19:01:28
+EFTA01749584,email-redaction,To: Epstein<br/>From: Lesley Groff<br/>Subject: Leon Botstein<br/>appointment schedule,1,Sep 5 2014 19:01:28
+EFTA00996142,email-redaction,To: Epstein<br/>From: Lesley Groff<br/>Subject: Leon Botstein<br/>appointment schedule,1,Sep 5 2014 19:01:28
+EFTA02414318,email,To: Epstein<br/>From: Lesley Groff<br/>Subject: Bill Gates<br/>Bill Gates appointment,1,11/28/2010 2:57:35 PM
+EFTA01957604,email-redaction,To: Epstein<br/>From: Terje Rod-Larsen<br/>Subject: Fw: pak press on prime minister and gates meeting,1,9/26/2013 3:37:02
+EFTA00363578,email-redaction,"To: Epstein<br/>From: Redacted<br/>Cc: Lyn Fontanilla, Jojo Fontanilla, Merwin Dela Cruz<br/>Subject: Schedule Mon. Sept. 8",1,Sep 8 2014 9:16:10
+EFTA00653084,email-redaction,To: Epstein<br/>From: afri xp<br/>Lebanese joke?,1,Oct 10 2012 7:51:43
+EFTA00640503,email-redaction,To: Epstein<br/>From: Bill Gates<br/>Subject: FW: 3:30-4:30pm Billg Meeting w/Jeffrey Epstein (Boris) (ct),1,Jul 6 2011 20:59:40
+EFTA01809527,email-redaction,Meeting appointment between Bill Gates and Epstein,1,
+EFTA01893774,email,To: Epstein<br/>From: afri xp<br/>Lebanese joke?,1,10/10/2012 7:51:43 AM

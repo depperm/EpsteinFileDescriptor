@@ -31,3 +31,7 @@ hr {
     text-decoration-thickness: 4px;
     background-color: white;
 }
+.tag-chip.nsfw {
+    color: black;
+    background-color: hotpink;
+}
