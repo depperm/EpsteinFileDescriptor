@@ -35,3 +35,15 @@ hr {
     color: black;
     background-color: hotpink;
 }
+.tag-chip.court {
+    color: black;
+    background-color: gold;
+}
+.tag-chip.screenshot {
+    color: black;
+    background-color: papayawhip;
+}
+.tag-chip.tweet {
+    color: black;
+    background-color: lightskyblue;
+}

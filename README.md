@@ -28,19 +28,22 @@ click on a file and change (pdf->mp4/mov)
 
 Dataset 10 starts page 15 of results (Dataset 8 is mostly jail)
 
-### Get Metadata JSON Template (for adding to extension)
-From console
-```
-JSON.stringify(Object.fromEntries(Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>[link.textContent.replaceAll('.pdf',''), {tags: ['UNKNOWN'], description: '', len: '', date: ''}])))
-```
-
 ### Get Metadata CSV Template (for adding to extension)
 From console
 ```
 Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>`${link.textContent.replaceAll('.pdf','')},UNKNOWN,,,`).join('\n')
 ```
 
+### OLD ~~Get Metadata JSON Template (for adding to extension)~~
+From console
+```
+JSON.stringify(Object.fromEntries(Array.from(document.querySelectorAll('.result-item h3 a')).map(link=>[link.textContent.replaceAll('.pdf',''), {tags: ['UNKNOWN'], description: '', len: '', date: ''}])))
+```
+
+
 ## TODO
 - So many files....
 - Add people mentioned and tooltip or link about them
+- Add companies mentioned
+- Add locations
 - format all dates to be the same
