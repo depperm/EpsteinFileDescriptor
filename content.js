@@ -1,3 +1,17 @@
+const TAGS = [
+  "UNKNOWN",
+  "PHOTO",
+  "REDACTION",
+  "COURT",
+  "NSFW",
+  "MP4",
+  "MOV",
+  "DOCUMENT",
+  "???",
+  "EMAIL",
+  "MISSING",
+  "JAIL",
+];
 let metadata = {};
 
 async function loadMetadata() {
@@ -26,7 +40,7 @@ async function loadMetadata() {
       });
       lines.forEach((line) => {
         metadata[line[0]] = {
-          tags: line[1].split("-"),
+          tags: line[1].split("-").map((i) => parseFloat(i)),
           description: line[2],
           len: line[3],
           date: line[4],
@@ -57,8 +71,8 @@ function createTagsElement(tags) {
 
   tags.forEach((tag) => {
     const chip = document.createElement("span");
-    chip.className = `tag-chip ${tag}`;
-    chip.textContent = tag;
+    chip.className = `tag-chip ${TAGS[tag].toLowerCase()}`;
+    chip.textContent = TAGS[tag];
     tagsDiv.appendChild(chip);
   });
 
@@ -94,7 +108,7 @@ function enhanceResultItem(resultItem) {
     return;
   }
 
-  const docId = getDocumentId(resultItem);
+  const docId = getDocumentId(resultItem).replace("EFTA", "");
   if (!docId || !metadata[docId]) {
     return;
   }

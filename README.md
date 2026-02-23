@@ -1,5 +1,10 @@
 # Epstein File description
-I was frustrated looking at the [Epstein files](https://www.justice.gov/epstein) and not having any info about what file might contain. This is especially true for videos which show up as pdfs.
+I was frustrated looking at the [Epstein files](https://www.justice.gov/epstein):
+- lack of info about what file might contain
+- videos which show up as pdfs
+- duplicate files
+- random files (even if they are from Epstein's electronics, clutter investigation)
+- redactions with lack of info
 
 This extension will add some tags with basic info and a description with more details.
 
@@ -47,3 +52,7 @@ JSON.stringify(Object.fromEntries(Array.from(document.querySelectorAll('.result-
 - Add companies mentioned
 - Add locations
 - format all dates to be the same
+- condense data (binary/protobuf/typed array) and/or:
+  - ~~make file names shorter~~
+  - ~~rename tags to numbers and map in content.js~~
+  - gzip csv (zlib?)
