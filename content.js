@@ -1,24 +1,27 @@
-const TAGS = [
-  "UNKNOWN",
-  "PHOTO",
-  "REDACTION",
-  "COURT",
-  "NSFW",
-  "MP4",
-  "MOV",
-  "DOCUMENT",
-  "???",
-  "EMAIL",
-  "MISSING",
-  "JAIL",
-];
+let TAGS;
+async function loadTags() {
+  try {
+    const url = chrome.runtime.getURL("tags.json");
+    const response = await fetch(url);
+    TAGS = await response.json();
+  } catch (error) {
+    console.error("Error loading tags:", error);
+  }
+}
 let metadata = {};
 
 async function loadMetadata() {
-  const url = chrome.runtime.getURL("metadata.csv");
+  const url = chrome.runtime.getURL("metadata.csv.gz");
+  console.log(">>>", url);
+
+  await loadTags();
 
   await fetch(url)
-    .then((response) => response.text())
+    .then((response) => response.blob())
+    .then((blob) => {
+      const stream = blob.stream().pipeThrough(new DecompressionStream("gzip"));
+      return new Response(stream).text();
+    })
     .then((text) => {
       const lines = text.split("\n").map((line) => {
         const fields = [];
@@ -40,7 +43,7 @@ async function loadMetadata() {
       });
       lines.forEach((line) => {
         metadata[line[0]] = {
-          tags: line[1].split("-").map((i) => parseFloat(i)),
+          tags: line[1].split("-"),
           description: line[2],
           len: line[3],
           date: line[4],
@@ -50,7 +53,7 @@ async function loadMetadata() {
     })
     .catch((error) => {
       console.error("Error loading metadata:", error);
-      console.error("URL attempted:", chrome.runtime.getURL("metadata.csv"));
+      console.error("URL attempted:", chrome.runtime.getURL("metadata.csv.gz"));
       return false;
     });
 }
@@ -71,6 +74,7 @@ function createTagsElement(tags) {
 
   tags.forEach((tag) => {
     const chip = document.createElement("span");
+    console.log("<<<<", TAGS[tag]);
     chip.className = `tag-chip ${TAGS[tag].toLowerCase()}`;
     chip.textContent = TAGS[tag];
     tagsDiv.appendChild(chip);

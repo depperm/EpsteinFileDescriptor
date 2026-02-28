@@ -55,4 +55,5 @@ JSON.stringify(Object.fromEntries(Array.from(document.querySelectorAll('.result-
 - condense data (binary/protobuf/typed array) and/or:
   - ~~make file names shorter~~
   - ~~rename tags to numbers and map in content.js~~
-  - gzip csv (zlib?)
+  - ~~gzip csv (zlib?)~~
+  - ~~inflate script to change nums to strings and add EFTA to filenames~~

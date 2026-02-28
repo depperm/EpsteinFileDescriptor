@@ -1,0 +1,16 @@
+{
+  "0": "UNKNOWN",
+  "1": "PHOTO",
+  "2": "REDACTION",
+  "3": "COURT",
+  "4": "NSFW",
+  "5": "MP4",
+  "6": "MOV",
+  "7": "DOCUMENT",
+  "8": "SCAN",
+  "9": "EMAIL",
+  "10": "MISSING",
+  "11": "JAIL",
+  "12": "SCREENSHOT",
+  "13": "TWEET"
+}

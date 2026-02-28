@@ -14,7 +14,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["metadata.json", "metadata.csv"],
+      "resources": ["metadata.csv.gz", "tags.json"],
       "matches": ["<all_urls>"]
     }
   ],
